@@ -1,0 +1,16 @@
+.loader{
+    display: flex;
+    align-content: center;
+    align-items: center;
+    justify-content: center;
+    height: 80vh;
+    flex-direction: column;
+    .img{
+        width: 70%;
+        height: 70vh;
+        background-image: url('../../../public/giphy(1).gif');
+        background-repeat: no-repeat;
+        background-size: 50%;
+        background-position: center center;
+    }
+}

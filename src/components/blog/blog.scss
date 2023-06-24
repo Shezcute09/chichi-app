@@ -1,0 +1,13 @@
+.blog {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    align-items: center;
+    gap: 50px;
+    background-color: rgb(130, 130, 169);
+    h1 {
+        display: block;
+        width: 100%;
+        text-align: center;
+    }
+}
